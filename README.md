@@ -7,7 +7,7 @@
 ## Membre :
 # LEBRUN Mathieu	mathieu.lebrun@etu.univ-amu.fr
 ## Organisation : IUT AIX MARSEILLE, IUT d’Aix en Provence, 413 Avenue Gaston Berger, 13100 Aix-en-Provence.
-## GITHUB: "https://github.com/MatLebrun/Projet-PHP-S3"
+## GITHUB: "https://github.com/MatLebrun/Projet-JS-S4"
 
 
 ###### ### Identifiants de connexion:
